@@ -1,1 +1,1 @@
-# Breast_Cancer_Detection: The main goal of this project is to detect breast cancer and highlighting the part or annotating that.
+Medical ultrasound (US) imaging has become a prominent modality for breast cancer imaging due to its ease-of-use, low-cost and safety. US imaging has shown great potential in automated breast cancer detection.This unreal_MERN app identifies breast cancer on Ultrasound images using LLM.
